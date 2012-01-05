@@ -1,0 +1,2 @@
+Java utility to coninuously grab screenshots of a debug-enabled Android phone connected over USB. Only dependency is the 'adb' executable and is only limited by the phone's processing power. No rotation logic nor robust error handling has been added yet as it is more of a proof-of-concept 
+-sg
